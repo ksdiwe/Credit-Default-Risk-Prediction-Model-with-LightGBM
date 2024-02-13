@@ -9,36 +9,3 @@ This project involves understanding financial terminologies attached to credit r
 
 
 
-#### Folder Structure
-
-input
-- credit_risk_data.csv
-
-documents
-- project_document.pdf
-- lightgbm_explanation.pdf
-
-lib
-- model.ipynb
-- utils.py
-- hyperopt_results.csv
-
-ml_pipeline
-- utils.py
-- processing.py
-- training.py
-
-output
-
-engine.py
-
-requirements.txt
-
-readme.md
-
-#### Steps
-
-- Install dependencies using the command "pip install -r requirements.txt"
-
-- Run engine.py to train and save the model.
-
